@@ -1,0 +1,11 @@
+ID,Name,Department,Salary,Years_Experience,Status
+101,John Smith,Engineering,85000,5,Active
+102,Jane Doe,Marketing,62000,3,Active
+103,Mike Johnson,Engineering,92000,8,Active
+104,Sarah Wilson,HR,58000,4,Active
+105,David Brown,Sales,71000,6,Active
+106,Lisa Garcia,Engineering,78000,2,Active
+107,Tom Anderson,Marketing,65000,7,Active
+108,Emily Davis,Finance,69000,4,Active
+109,Chris Martinez,Sales,74000,5,Inactive
+110,Amy Taylor,HR,61000,3,Active

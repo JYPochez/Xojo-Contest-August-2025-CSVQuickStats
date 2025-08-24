@@ -1,0 +1,5 @@
+Product,Description,Price
+Widget,"This is a "broken quote,25.99
+Gadget,"Properly quoted description",45.50
+Tool,Unquoted description with "quotes,67.25
+Device,"Another broken" quote here,12.75

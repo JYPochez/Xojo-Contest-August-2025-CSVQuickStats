@@ -1,0 +1,6 @@
+ID,Name,Email,Phone,Address
+1,John Smith,john@email.com,555-1234,123 Main St
+2,,jane@email.com,,456 Oak Ave
+3,Bob Jones,,555-9876,
+4,Alice Brown,alice@email.com,555-5555,789 Pine Rd
+5,,,555-0000,321 Elm St

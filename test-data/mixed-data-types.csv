@@ -1,0 +1,7 @@
+ID,Name,Score,Status,Comments
+1,Alice,95.5,Active,Excellent student
+2,Bob,failed,Active,Needs improvement
+3,Charlie,87,Inactive,Good work
+4,Diana,A+,Active,Outstanding performance
+5,Eve,92.0,true,Top performer
+text,Frank,78.5,false,Average student
